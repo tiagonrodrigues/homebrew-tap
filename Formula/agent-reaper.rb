@@ -1,10 +1,10 @@
 class AgentReaper < Formula
   desc "Kill the zombie processes your AI coding agents leave behind"
   homepage "https://github.com/tiagonrodrigues/agent-reaper"
-  url "https://github.com/tiagonrodrigues/agent-reaper/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "35119fd51266a1403372cd564b85d0e458bf14583aecb8bad9b6a87122dc365d"
+  url "https://github.com/tiagonrodrigues/agent-reaper/archive/refs/tags/v0.7.0.tar.gz"
+  sha256 "2b7bcc280d87dc3722efad2d46e1c5ddbceb4987f9b055b8a29b234ec41097b5"
   license "MIT"
-  version "0.6.0"
+  version "0.7.0"
 
   depends_on :macos
 
